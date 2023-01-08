@@ -4,7 +4,7 @@
 
 # Voraussetzung:
 
-Geringe Voraussetzung da Java wegen "write once, run anywhere" erlaubt, dass kompilierter Java-Code auf allen Plattformen ausgeführt werden kann, die Java unterstützen, ohne dass eine Neukompilierung erforderlich ist.
+Geringe Voraussetzung, da Java wegen "write once, run anywhere" erlaubt, dass kompilierter Java-Code auf allen Plattformen ausgeführt werden kann, die Java unterstützen, ohne dass eine Neukompilierung erforderlich ist.
 
 Java, eventuell Programmierumgebung, empfohlen GitHub Desktop
 
@@ -12,3 +12,5 @@ Java, eventuell Programmierumgebung, empfohlen GitHub Desktop
 # Installationsvorgang:
 
 Code entweder als Zip-Datei downloaden und manuell starten oder über GitHub Desktop öffnen.
+
+Zum Code "HelloWorld.java" gelangt man über "src".
